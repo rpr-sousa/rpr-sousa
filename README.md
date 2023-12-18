@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rpr-sousa
 - 👀 I’m interested in Agile Architecture
-- 🌱 I’m currently learning about GitHub, I have previsouly always used TFS or VSS.
+- 🌱 How can we bridge the gap between Enterprise Architecture and agile Product development?
